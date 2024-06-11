@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser">
+![CSS](https://img.shields.io/badge/CSS)
+
 
