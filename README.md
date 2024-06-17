@@ -1,4 +1,7 @@
 ## About me
+<p align="left">
+<a href="https://instagram.com/hanbi7506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanbi7506" height="30" width="40" /></a>
+</p>
 
 <h1 align="left">Hi 👋, I'm Hanbi</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
@@ -7,10 +10,8 @@
 
 - 📫 How to reach me **ssytad77@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hanbi7506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanbi7506" height="30" width="40" /></a>
-</p>
+
+
 <br />
 
 
@@ -36,7 +37,7 @@
 <br />
 
 
-<h3 align="left">📈My github stats</h3>
+<h3 align="left">My github stats📈</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hb0511&show_icons=true&locale=en&layout=compact" alt="hb0511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hb0511&show_icons=true&locale=en" alt="hb0511" /></p>
