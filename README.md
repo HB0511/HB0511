@@ -1,6 +1,6 @@
-## Hi there 👋
+## About me
 
-<h1 align="center">Hi 👋, I'm Hanbi</h1>
+<h1 align="left">Hi 👋, I'm Hanbi</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hb0511&label=Profile%20views&color=0e75b6&style=flat" alt="hb0511" /> </p>
